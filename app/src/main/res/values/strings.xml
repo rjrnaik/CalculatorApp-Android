@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="calculator">Calculator</string>
+    <string name="result">Result</string>
+    <string name="add">+</string>
+    <string name="power">N1^N2</string>
+    <string name="sub">-</string>
+    <string name="divide">/</string>
+    <string name="close">Close</string>
+    <string name="modulus">%</string>
+    <string name="percentage">%</string>
+    <string name="modulo">Mod</string>
+    <string name="multiply">X</string>
+    <string name="clear">C</string>
+    <string name="num1">Num1</string>
+    <string name="num2">Num2</string>
+
+</resources>
